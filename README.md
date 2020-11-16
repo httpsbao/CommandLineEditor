@@ -2,8 +2,6 @@
 命令行文本编辑器
 运行环境：Dev C++
 
-<iframe src="//player.bilibili.com/player.html?aid=457805931&bvid=BV1Q5411V7vG&cid=256287164&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 `运行成果视频：`
 https://www.bilibili.com/video/BV1Q5411V7vG/
 
